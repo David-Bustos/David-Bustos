@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Industrial Engineer and Data Science Enthusiat👋 
 
 ---
 

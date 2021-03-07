@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/Keras-tool-D00000?style=for-the-badge&logo=Keras&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/Scikit_learn-tool-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/Power_BI-tool-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=212121)
+![](https://img.shields.io/badge/Streamlit-tool-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white&labelColor=212121)
 
 
 

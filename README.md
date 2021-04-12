@@ -17,10 +17,18 @@
 ![](https://img.shields.io/badge/Django-tool-092E20?style=for-the-badge&logo=Django&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/PostgreSQL-tool-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=212121)
 -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-bustos&layout=compact&theme=dark&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400" align="center">
+
+
 
 <!--
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400" align="right">
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400" align="center">
+
 **David-Bustos/David-Bustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

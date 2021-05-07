@@ -18,12 +18,13 @@
 ![](https://img.shields.io/badge/PostgreSQL-tool-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=212121)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-bustos&layout=compact&theme=dark&exclude_repo=Python-Machine-Learning-v2-S.Raschka)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-bustos&hide=Jupyter%20Notebook&exclude_repo=Python-Machine-Learning-v2-S.Raschka&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!--
 hide=Jupyter%20Notebook
+exclude_repo=Python-Machine-Learning-v2-S.Raschka
 ![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400" align="right">

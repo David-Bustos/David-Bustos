@@ -10,12 +10,14 @@
 ![](https://img.shields.io/badge/Scikit_learn-tool-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/Power_BI-tool-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/Streamlit-tool-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white&labelColor=212121)
-![](https://img.shields.io/badge/JavaScript-code-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=212121)
+![](https://img.shields.io/badge/Django-tool-092E20?style=for-the-badge&logo=Django&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/HTML5-code-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/CSS3-code-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=212121)
+![](https://img.shields.io/badge/JavaScript-code-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=212121)
+![](https://img.shields.io/badge/MySQL-tool-336791?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=212121)
 <!---
-![](https://img.shields.io/badge/Django-tool-092E20?style=for-the-badge&logo=Django&logoColor=white&labelColor=212121)
-![](https://img.shields.io/badge/PostgreSQL-tool-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=212121)
+
+
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-bustos&hide=Jupyter%20Notebook&exclude_repo=Python-Machine-Learning-v2-S.Raschka&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

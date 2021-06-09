@@ -5,16 +5,18 @@
 ## Technology Stack
 
 ![](https://img.shields.io/badge/Python-code-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=212121)
-![](https://img.shields.io/badge/TensorFlow-tool-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=212121)
-![](https://img.shields.io/badge/Keras-tool-D00000?style=for-the-badge&logo=Keras&logoColor=white&labelColor=212121)
-![](https://img.shields.io/badge/Scikit_learn-tool-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white&labelColor=212121)
-![](https://img.shields.io/badge/Power_BI-tool-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=212121)
-![](https://img.shields.io/badge/Streamlit-tool-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/Django-tool-092E20?style=for-the-badge&logo=Django&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/HTML5-code-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/CSS3-code-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/JavaScript-code-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=212121)
+![](https://img.shields.io/badge/TensorFlow-tool-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=212121)
+![](https://img.shields.io/badge/Keras-tool-D00000?style=for-the-badge&logo=Keras&logoColor=white&labelColor=212121)
+![](https://img.shields.io/badge/Scikit_learn-tool-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white&labelColor=212121)
+![](https://img.shields.io/badge/Power_BI-tool-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=212121)
 ![](https://img.shields.io/badge/MySQL-tool-336791?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=212121)
+![](https://img.shields.io/badge/Streamlit-tool-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white&labelColor=212121)
+
+
 <!---
 
 
